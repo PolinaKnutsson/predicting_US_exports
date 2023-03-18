@@ -1,2 +1,2 @@
 # Predict exports
-The objective of the project is to test various approaches to predicting exports for the months where the data are not yet publicshed using data on more timely economic variables - the type of preodiction analysis known as 'nowcasting'. The notebooks predict exports using Random Forests and Gradient Boosted Trees. 
+The objective of the project is to test various approaches to predicting exports for the months where the data are not yet published using data on more timely economic variables - the type of prediction analysis known as 'nowcasting'. The notebooks use historical data on exports and other economic variables and predict export values using Random Forests and Gradient Boosted Trees. 
